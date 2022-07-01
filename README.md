@@ -1,4 +1,8 @@
 # dappifyETH
+
+Deprecated! New repo: [dappifyv2](https://github.com/NotWale/dappifyV2)
+
+
 Very barebone Spotify/Soundcloud(?) dapp clone. Allows you to upload music to IPFS and save the hash on the blockchain.
 It lets you upload mp3 files to ipfs, play them on the website and tip the user who uploaded it in eth.
 
